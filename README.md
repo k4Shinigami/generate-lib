@@ -1,6 +1,6 @@
 # generate-lib
 
-normally compiled:
+. General cpp build:
 
 ```
 > cd simple-cpp
@@ -8,14 +8,14 @@ normally compiled:
 > ./a.out
 ```
 
-Build for android:
+. Build for android:
 
 ```
 > cd binary-for-android
 > ./build.sh
 ```
 
-should see hello-binary in the same folder
+This will generated a compiled file and a binary. Should see both files in the same folder
 
 ## extras
 

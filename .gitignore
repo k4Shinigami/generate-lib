@@ -1,3 +1,5 @@
 .vscode/*
 binary-for-android/hello-binary
 binary-for-android/hello-compiled.cpp.o
+simple-cpp/a.out
+simple-cpp/abc
